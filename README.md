@@ -18,3 +18,7 @@ Menu:
 3: Calculate the total price of items in the cart.
 4: Remove an item by its index.
 5: Exit program.
+
+---
+🔗 Linkedin: www.linkedin.com/in/sondos-el-ahmady
+📂 More Projects: https://github.com/sondos-elahmady
